@@ -1,0 +1,1 @@
+web: gunicorn jeevanBack:app
